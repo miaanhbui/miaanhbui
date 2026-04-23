@@ -11,3 +11,11 @@ I’m currently exploring systems programming, data analysis, and how software w
 📫 How to reach me: Here's my LinkedIn https://www.linkedin.com/feed/
 
 😄 Pronouns: she/her
+
+## 🚀 Projects
+
+### 1. Red Light Camera Data Explorer
+A C++ console application that allows users to search and analyze traffic violation data based on location and time. Focused on efficient data processing, input validation, and performance optimization.
+
+### 2. Professor Ratings Analyzer
+A Python-based data analysis tool that processes large CSV datasets to extract insights from professor reviews. Includes text parsing, keyword analysis, and statistical summaries through a command-line interface.
